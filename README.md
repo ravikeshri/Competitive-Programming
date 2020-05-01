@@ -1,5 +1,5 @@
 **Some Important Algorithms and Solutions in C++**
-##Contents
+> ## Contents
 
 * [Data Structures](https://github.com/ravikeshri/Competitive-Programming/tree/master/Data-Structures)
   * [Implementations](https://github.com/ravikeshri/Competitive-Programming/tree/master/Data-Structures/Implementations)
