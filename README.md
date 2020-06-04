@@ -24,6 +24,7 @@
     * [Connected Cells (Similar to no. of Islands)](https://github.com/ravikeshri/Competitive-Programming/blob/master/Data-Structures/Solutions/Connected-Cells.cpp)
     * [Largest Area under Histogram](https://github.com/ravikeshri/Competitive-Programming/blob/master/Data-Structures/Solutions/Largest-Area-Histogram.cpp)
     * [Sliding Window max/min](https://github.com/ravikeshri/Competitive-Programming/blob/master/Data-Structures/Solutions/Sliding-Window-Max-Min.cpp)
+    * [Diameter of A Tree](https://github.com/ravikeshri/Competitive-Programming/blob/master/Data-Structures/Solutions/Diameter-Of-Tree.cpp)
 * [Dynamic Programming](https://github.com/ravikeshri/Competitive-Programming/tree/master/Dynamic-Programming)
   * [Kadane's Algorithm](https://github.com/ravikeshri/Competitive-Programming/blob/master/Dynamic-Programming/Kadane-Algorithm.cpp)
   * [Sieve of Eratosthenes](https://github.com/ravikeshri/Competitive-Programming/blob/master/Dynamic-Programming/Sieve-Of-Eratosthenes.cpp)
