@@ -9,6 +9,7 @@
       * [DFS](https://github.com/ravikeshri/Competitive-Programming/blob/master/Data-Structures/Implementations/Graph/DFS.c)
       * [DFS Recursive](https://github.com/ravikeshri/Competitive-Programming/blob/master/Data-Structures/Implementations/Graph/DFS-Competitive.cpp)
       * [Dijkstra's Algorithm](https://github.com/ravikeshri/Competitive-Programming/blob/master/Data-Structures/Implementations/Graph/Dijkstra.cpp)
+      * [Dijkstra's using Min Heap](https://github.com/ravikeshri/Competitive-Programming/blob/master/Data-Structures/Implementations/Graph/Dijkstra-Min-Heap.cpp)
       * [Prims Algorithm](https://github.com/ravikeshri/Competitive-Programming/blob/master/Data-Structures/Implementations/Graph/Prims.cpp)
       * [Union Find](https://github.com/ravikeshri/Competitive-Programming/blob/master/Data-Structures/Implementations/Graph/Union-Find.cpp)
     * [Linked List](https://github.com/ravikeshri/Competitive-Programming/tree/master/Data-Structures/Implementations/Linked-List)
