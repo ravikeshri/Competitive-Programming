@@ -34,6 +34,7 @@
   * [Modular Exponentiation](https://github.com/ravikeshri/Competitive-Programming/blob/master/Exponentiation/Modular-Exponentiation.cpp)
   * [Matrix Exponentiation](https://github.com/ravikeshri/Competitive-Programming/blob/master/Exponentiation/Matrix-Exponentiation.cpp)
 * [Math](https://github.com/ravikeshri/Competitive-Programming/tree/master/Math)
+  * [Factorial of Large Numbers](https://github.com/ravikeshri/Competitive-Programming/blob/master/Math/Factorial2.cpp)
   * [Phi Function](https://github.com/ravikeshri/Competitive-Programming/blob/master/Math/Phi.cpp)
   * [Primality Test](https://github.com/ravikeshri/Competitive-Programming/blob/master/Math/Primality-Test.cpp)
 * [Searching](https://github.com/ravikeshri/Competitive-Programming/tree/master/Searching)
