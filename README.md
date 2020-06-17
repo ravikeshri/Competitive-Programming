@@ -3,6 +3,8 @@
 
 * [Data Structures](https://github.com/ravikeshri/Competitive-Programming/tree/master/Data-Structures)
   * [Implementations](https://github.com/ravikeshri/Competitive-Programming/tree/master/Data-Structures/Implementations)
+    * [Array](https://github.com/ravikeshri/Competitive-Programming/tree/master/Data-Structures/Implementations/Array)
+      * [Moore's Algorithm for Majorirty element](https://github.com/ravikeshri/Competitive-Programming/blob/master/Data-Structures/Implementations/Array/Moore's%20Voting%20Algorithm.cpp)
     * [Graph](https://github.com/ravikeshri/Competitive-Programming/tree/master/Data-Structures/Implementations/Graph)
       * [Adjacency List Representation](https://github.com/ravikeshri/Competitive-Programming/blob/master/Data-Structures/Implementations/Graph/Adjacency-List.c)
       * [BFS](https://github.com/ravikeshri/Competitive-Programming/blob/master/Data-Structures/Implementations/Graph/BFS.c)
