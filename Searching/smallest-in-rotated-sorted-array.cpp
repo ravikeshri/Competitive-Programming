@@ -1,5 +1,7 @@
 /*
 Find the smallest element in rotated sorted array
+or
+Find the order of rotation in rotated sorted array
 */
 
 #include <bits/stdc++.h>
