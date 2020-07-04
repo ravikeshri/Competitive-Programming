@@ -46,3 +46,5 @@
   * [Smallest in Rotated Sorted Array](https://github.com/ravikeshri/Competitive-Programming/blob/master/Searching/smallest-in-rotated-sorted-array.cpp)
   * [Find in Rotated Sorted Array](https://github.com/ravikeshri/Competitive-Programming/blob/master/Searching/search-in-rotated-array.cpp)
   * [Painter's Problem](https://github.com/ravikeshri/Competitive-Programming/blob/master/Searching/Painters-Problem.cpp)
+* [String]()
+  * [KMP Algorithm]() 
