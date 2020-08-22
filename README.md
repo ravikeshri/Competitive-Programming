@@ -52,5 +52,6 @@
   * [Insertion Sort](https://github.com/ravikeshri/Competitive-Programming/blob/master/Sorting/insertion_sort.cpp)
   * [Merge Sort](https://github.com/ravikeshri/Competitive-Programming/blob/master/Sorting/merge_sort.cpp)
   * [Heap Sort](https://github.com/ravikeshri/Competitive-Programming/blob/master/Sorting/heap_sort.cpp)
+  * [Quick Sort](https://github.com/ravikeshri/Competitive-Programming/blob/master/Sorting/quick_sort.cpp)
 * [String](https://github.com/ravikeshri/Competitive-Programming/tree/master/String)
   * [KMP Algorithm](https://github.com/ravikeshri/Competitive-Programming/blob/master/String/KMP-Algorithm.cpp) 
