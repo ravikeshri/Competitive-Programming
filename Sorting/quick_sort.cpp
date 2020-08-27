@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=COk73cpQbFQ
 #include<bits/stdc++.h>
 using namespace std;
 
+// last element is pivot
 int partition(int arr[], int start, int end) {
 	int pivot = arr[end];
 	int pIndex = start;
@@ -16,6 +17,28 @@ int partition(int arr[], int start, int end) {
 	swap(arr[pIndex], arr[end]);
 	return pIndex;
 }
+
+// first element is pivot
+// int partition(int arr[], int start, int end) {
+//     int pivot = arr[start];
+//     int left = start+1;
+//     int right = end;
+    
+//     while(left <= right) {    
+//         while(arr[left] < pivot) {
+//             left++;
+//         }
+//         while(arr[right] > pivot) {
+//             right--;
+//         }
+//         if(left <= right) {
+//             swap(arr[left], arr[right]);
+//             left++, right--;
+//         }
+//     }
+//     swap(arr[start], arr[right]);   
+//     return right;
+// }
 
 void quickSort(int arr[], int start, int end) {
     if(start < end) {
