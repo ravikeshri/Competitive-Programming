@@ -33,6 +33,7 @@
     * [N/3 Repeated Number](https://github.com/ravikeshri/Competitive-Programming/blob/master/Data-Structures/Solutions/Nby3-Repeted-Number.cpp)
     * [Sliding Window max/min](https://github.com/ravikeshri/Competitive-Programming/blob/master/Data-Structures/Solutions/Sliding-Window-Max-Min.cpp)
     * [Diameter of A Tree](https://github.com/ravikeshri/Competitive-Programming/blob/master/Data-Structures/Solutions/Diameter-Of-Tree.cpp)
+    * [Minimize the Difference](https://github.com/ravikeshri/Competitive-Programming/blob/master/Data-Structures/Solutions/minimize-the-difference.cpp)
 * [Dynamic Programming](https://github.com/ravikeshri/Competitive-Programming/tree/master/Dynamic-Programming)
   * [Kadane's Algorithm](https://github.com/ravikeshri/Competitive-Programming/blob/master/Dynamic-Programming/Kadane-Algorithm.cpp)
 * [Math](https://github.com/ravikeshri/Competitive-Programming/tree/master/Math)
